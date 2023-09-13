@@ -1,5 +1,6 @@
 {
 	"name": "chucknorris-svelte",
+	"homepage": "https://github.com/carson-haskell/chucknorris-svelte",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
